@@ -1,0 +1,13 @@
+install ----> composer
+
+Powershell ----------
+composer create-project laravel/laravel project_name
+
+
+if error ----------------------------
+composer update --ignore-platform-reqs
+
+
+
+Run project in server --------------------
+php artisan serve

@@ -1,0 +1,5 @@
+to create model -> php artisan make:model <model-name> -m
+
+to migrate -> php artisan migrate
+
+to create controller -> php artisan make:controller <controller-name>
